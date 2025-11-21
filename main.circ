@@ -62,6 +62,24 @@
     <a name="simulationFrequency" val="1.0"/>
     <comp lib="0" loc="(340,110)" name="Power"/>
     <comp lib="0" loc="(640,430)" name="Ground"/>
+    <comp lib="5" loc="(340,570)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(360,570)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(380,570)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(400,570)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(420,570)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
+    <comp lib="5" loc="(440,570)" name="LED">
+      <a name="facing" val="north"/>
+    </comp>
     <comp lib="6" loc="(400,300)" name="74381"/>
     <wire from="(340,110)" to="(340,270)"/>
     <wire from="(340,270)" to="(410,270)"/>
