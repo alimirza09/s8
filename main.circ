@@ -40,7 +40,7 @@
     <tool lib="8" name="Text Tool"/>
     <sep/>
     <tool lib="0" name="Pin">
-      <a name="facing" val="north"/>
+      <a name="facing" val="south"/>
     </tool>
     <tool lib="0" name="Pin">
       <a name="facing" val="west"/>
@@ -78,6 +78,10 @@
     <comp lib="0" loc="(540,650)" name="Pin">
       <a name="appearance" val="NewPins"/>
       <a name="facing" val="north"/>
+    </comp>
+    <comp lib="0" loc="(580,130)" name="Pin">
+      <a name="appearance" val="NewPins"/>
+      <a name="facing" val="south"/>
     </comp>
     <comp lib="0" loc="(630,650)" name="Pin">
       <a name="appearance" val="NewPins"/>
@@ -164,6 +168,7 @@
     <wire from="(560,340)" to="(560,450)"/>
     <wire from="(560,450)" to="(870,450)"/>
     <wire from="(570,650)" to="(570,750)"/>
+    <wire from="(580,130)" to="(580,280)"/>
     <wire from="(580,340)" to="(580,430)"/>
     <wire from="(580,430)" to="(870,430)"/>
     <wire from="(580,640)" to="(580,730)"/>
