@@ -30,6 +30,7 @@ F. JNZ
 * L (4): GP register/(L)ow index register
 * H (5): GP register/(H)igh index register
 * X (6): GP register
+* Z (7): GP register
 * F (7): flags (LSB to MSB)
     * LESS
     * EQUAL
