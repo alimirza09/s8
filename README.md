@@ -4,22 +4,22 @@ A custom 8bit CPU with custom instruction set.
 
 ## Instruction Set
 
-0. MW
-1. LW
-2. SW
-3. ADD
-4. ADC
-5. SB
-6. SBC
-7. PUSH
-8. POP
-9. AND
-A. OR
-B. NOR
-C. CMP
-D. OUTB
-E. INB
-F. JNZ
+* 0. MW
+* 1. LW
+* 2. SW
+* 3. ADD
+* 4. ADC
+* 5. SB
+* 6. SBC
+* 7. PUSH
+* 8. POP
+* 9. AND
+* A. OR
+* B. NOR
+* C. CMP
+* D. OUTB
+* E. INB
+* F. JNZ
 
 ## Registers
 
